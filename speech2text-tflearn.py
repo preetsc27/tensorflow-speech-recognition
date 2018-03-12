@@ -45,5 +45,5 @@ while 1: #training_iters
   _y=model.predict(X)
 model.save("tflearn.lstm.model")
 print (_y)
-print (y)
+print (Y)
 
